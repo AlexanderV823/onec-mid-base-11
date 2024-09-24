@@ -125,7 +125,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>CatalogObject.Должности</types>
+      <types>CatalogObject.Д_Должности</types>
     </valueType>
     <view>
       <common>true</common>

@@ -1178,9 +1178,10 @@
   <catalogs>Catalog.ГруппыВнешнихПользователей</catalogs>
   <catalogs>Catalog.ГруппыДоступа</catalogs>
   <catalogs>Catalog.ГруппыПользователей</catalogs>
+  <catalogs>Catalog.Д_Должности</catalogs>
+  <catalogs>Catalog.Д_КонтактныеЛица</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентов</catalogs>
   <catalogs>Catalog.ДоговорыКонтрагентовПрисоединенныеФайлы</catalogs>
-  <catalogs>Catalog.Должности</catalogs>
   <catalogs>Catalog.ДополнительныеОтчетыИОбработки</catalogs>
   <catalogs>Catalog.ЕдиницыИзмерения</catalogs>
   <catalogs>Catalog.ЗаказПокупателяПрисоединенныеФайлы</catalogs>
@@ -1190,7 +1191,6 @@
   <catalogs>Catalog.ИдентификаторыОбъектовРасширений</catalogs>
   <catalogs>Catalog.КлючевыеОперации</catalogs>
   <catalogs>Catalog.КлючиДоступа</catalogs>
-  <catalogs>Catalog.КонтактныеЛица</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.КонтрагентыПрисоединенныеФайлы</catalogs>
   <catalogs>Catalog.МакетыПечатныхФорм</catalogs>

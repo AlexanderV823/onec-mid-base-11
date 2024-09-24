@@ -7,15 +7,15 @@
     <listType typeId="47724801-ac75-45f8-bb77-e49bfbc70397" valueTypeId="4d937c21-8830-47af-a7dd-751405f411c6"/>
     <managerType typeId="d1f36efb-d33d-4760-8ba3-ca9f01642254" valueTypeId="b5ee3490-105a-4692-8fae-1145f25005e7"/>
   </producedTypes>
-  <name>Должности</name>
+  <name>Д_Должности</name>
   <synonym>
     <key>ru</key>
     <value>Должности</value>
   </synonym>
   <comment>Доработка в рамказ ДЗ 13-7</comment>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.Должности.StandardAttribute.Code</inputByString>
-  <inputByString>Catalog.Должности.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Д_Должности.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Д_Должности.StandardAttribute.Description</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <standardAttributes>
     <dataHistory>Use</dataHistory>
@@ -124,9 +124,9 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <editType>InDialog</editType>
   <choiceMode>BothWays</choiceMode>
-  <defaultObjectForm>Catalog.Должности.Form.ФормаЭлемента</defaultObjectForm>
-  <defaultListForm>Catalog.Должности.Form.ФормаСписка</defaultListForm>
-  <defaultChoiceForm>Catalog.Должности.Form.ФормаВыбора</defaultChoiceForm>
+  <defaultObjectForm>Catalog.Д_Должности.Form.ФормаЭлемента</defaultObjectForm>
+  <defaultListForm>Catalog.Д_Должности.Form.ФормаСписка</defaultListForm>
+  <defaultChoiceForm>Catalog.Д_Должности.Form.ФормаВыбора</defaultChoiceForm>
   <forms uuid="36557e8f-a6e6-4752-a787-2cb28aaad5a5">
     <name>ФормаЭлемента</name>
     <synonym>
